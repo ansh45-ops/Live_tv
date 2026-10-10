@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sukuna TV</string>
+    <string name="tagline_domain_expansion">DOMAIN EXPANSION • LIVE STREAMING ENGINE</string>
+    <string name="tab_live_tv">Live TV</string>
+    <string name="tab_api_hub">Free APIs</string>
+    <string name="tab_favorites">Saved</string>
+    <string name="tab_scanner">Stream Lab</string>
+    <string name="search_channels_hint">Search 120+ live channels, countries, genres…</string>
+    <string name="live_badge">LIVE</string>
+    <string name="verified_badge">VERIFIED HLS</string>
+    <string name="switch_server">Switch Server</string>
+    <string name="add_custom_stream">Add Stream / M3U</string>
+    <string name="sync_all_apis">Sync Free IPTV APIs</string>
+    <string name="fullscreen_toggle">Toggle Fullscreen</string>
+    <string name="favorite_toggle">Toggle Favorite</string>
+    <string name="share_stream">Copy Stream URL</string>
+    <string name="stream_health_check">Ping Stream</string>
+</resources>

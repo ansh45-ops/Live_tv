@@ -1,0 +1,6 @@
+{
+  "name": "Sukuna TV",
+  "description": "High-energy anime-inspired live IPTV & HLS streaming player featuring Bangladesh, India, and Global channels with interactive fluid animations, multi-API live directory sync, custom M3U/HLS stream engine, and custom channellogos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
